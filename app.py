@@ -7,7 +7,7 @@
 # Register an app:
 # Redirect URI: https://localhost:5000/auth/redirect
 # Save the:
-# Client ID 
+# Client ID 1
 # Client Secret 
 # Tenant ID (or use common for multi-tenant)
 
